@@ -24,6 +24,7 @@ body{
 }
 .line2{
     padding-left: 100px !important;
+    /* padding-top: -60px !important; */
 }
 .name{
     position: relative;
