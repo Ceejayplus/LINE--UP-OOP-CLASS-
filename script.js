@@ -7,7 +7,6 @@ class Team{
 }
 
 var player1 = new Team ("Antony","21","RW")
-console.log (player1)
 ninth.innerHTML = `
 <p>
 <img src="man_utd-removebg-preview.png" alt="" height="100px">
