@@ -1,6 +1,5 @@
 body{
     margin: 0;
-    /* overflow-y: hidden; */
 }
 .background{
     background-image: url(/4567367.jpg);
@@ -24,7 +23,6 @@ body{
 }
 .line2{
     padding-left: 100px !important;
-    /* padding-top: -60px !important; */
 }
 .name{
     position: relative;
@@ -110,16 +108,37 @@ body{
     left: -40px;
     font-weight: 900 !important;
 }
+.name7{
+    position: relative;
+    top: -70px;
+    left: 48px;
+    font-weight: 900 !important;
+}
+.number7{
+    position: relative;
+    top: -30px;
+    left: px;
+    font-weight: 900 !important;
+    font-size: 30px;
+}
+.position7{
+    color: white;
+    letter-spacing: 5px;
+    position: relative;
+    top: 15px;
+    left: -30px;
+    font-weight: 900 !important;
+}
 .name8{
     position: relative;
     top: -70px;
-    left: -85px;
+    left: -47px;
     font-weight: 900 !important;
 }
 .number8{
     position: relative;
     top: -30px;
-    left: -130px;
+    left: -90px;
     font-weight: 900 !important;
     font-size: 30px;
 }
@@ -128,7 +147,7 @@ body{
     letter-spacing: 5px;
     position: relative;
     top: 15px;
-    left: -155px;
+    left: -115px;
     font-weight: 900 !important;
 }
 .name9{
@@ -171,5 +190,26 @@ body{
     position: relative;
     top: 15px;
     left: -145px;
+    font-weight: 900 !important;
+}
+.name11{
+    position: relative;
+    top: -70px;
+    left: 20px;
+    font-weight: 900 !important;
+}
+.number11{
+    position: relative;
+    top: -30px;
+    left: -15px;
+    font-weight: 900 !important;
+    font-size: 30px;
+}
+.position11{
+    color: white;
+    letter-spacing: 5px;
+    position: relative;
+    top: 15px;
+    left: -45px;
     font-weight: 900 !important;
 }
