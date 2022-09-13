@@ -96,3 +96,12 @@ fifth.innerHTML = `
 <span class = "position">${player10.position}</span>
 </p>
 `
+var player11 = new Team ("De Gea","1","GK")
+first.innerHTML = `
+<p>
+<img src="man_utd-removebg-preview.png" alt="" style="margin-right:-100px;" height="100px">
+<span class = "name">${player11.playerName}</span>
+<span class = "number">${player11.jerseyNumber}</span>
+<span class = "position">${player11.position}</span>
+</p>
+`
