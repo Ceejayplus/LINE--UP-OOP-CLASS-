@@ -78,3 +78,12 @@ third.innerHTML = `
 <span class = "position">${player8.position}</span>
 </p>
 `
+var player9 = new Team ("Varane","19","CB")
+fourth.innerHTML = `
+<p>
+<img src="man_utd-removebg-preview.png" alt="" style="margin-right:-100px;" height="100px">
+<span class = "name">${player9.playerName}</span>
+<span class = "number">${player9.jerseyNumber}</span>
+<span class = "position">${player9.position}</span>
+</p>
+`
