@@ -67,3 +67,24 @@ body{
     left: -155px;
     font-weight: 900 !important;
 }
+.name9{
+    position: relative;
+    top: -70px;
+    left: -80px;
+    font-weight: 900 !important;
+}
+.number9{
+    position: relative;
+    top: -30px;
+    left: -123px;
+    font-weight: 900 !important;
+    font-size: 30px;
+}
+.position9{
+    color: white;
+    letter-spacing: 5px;
+    position: relative;
+    top: 15px;
+    left: -155px;
+    font-weight: 900 !important;
+}

@@ -82,9 +82,9 @@ var player9 = new Team ("Varane","19","CB")
 fourth.innerHTML = `
 <p>
 <img src="man_utd-removebg-preview.png" alt="" style="margin-left:-50px;" height="100px">
-<span class = "name">${player9.playerName}</span>
-<span class = "number">${player9.jerseyNumber}</span>
-<span class = "position">${player9.position}</span>
+<span class = "name9">${player9.playerName}</span>
+<span class = "number9">${player9.jerseyNumber}</span>
+<span class = "position9">${player9.position}</span>
 </p>
 `
 var player10 = new Team ("Dalot","20","RB")
