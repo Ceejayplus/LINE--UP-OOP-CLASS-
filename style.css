@@ -46,3 +46,24 @@ body{
     left: -60px;
     font-weight: 900 !important;
 }
+.name8{
+    position: relative;
+    top: -70px;
+    left: -85px;
+    font-weight: 900 !important;
+}
+.number8{
+    position: relative;
+    top: -30px;
+    left: -130px;
+    font-weight: 900 !important;
+    font-size: 30px;
+}
+.position8{
+    color: white;
+    letter-spacing: 5px;
+    position: relative;
+    top: 15px;
+    left: -155px;
+    font-weight: 900 !important;
+}
