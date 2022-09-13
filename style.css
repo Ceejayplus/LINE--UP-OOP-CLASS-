@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    overflow-y: hidden;
+    /* overflow-y: hidden; */
 }
 .background{
     background-image: url(/4567367.jpg);
@@ -13,25 +13,22 @@ body{
     display: flex;
     justify-content: center;
     margin-top: 30px;
+    position: relative;
     column-gap: 20px;
 }
 .containe{
     padding-top: 50px;
 }
-#ninth{
-    position: relative;
-    /* top: -80px; */
-}
 .name{
     position: relative;
     top: -70px;
-    left: -80px;
+    left: 20px;
     font-weight: 900 !important;
 }
 .number{
     position: relative;
     top: -30px;
-    left: -125px;
+    left: -25px;
     font-weight: 900 !important;
     font-size: 30px;
 }
@@ -40,6 +37,6 @@ body{
     letter-spacing: 5px;
     position: relative;
     top: 15px;
-    left: -158px;
+    left: -60px;
     font-weight: 900 !important;
 }
