@@ -22,10 +22,24 @@ body{
     position: relative;
     /* top: -80px; */
 }
-.number{
-    /* color: red; */
+.name{
     position: relative;
     top: -70px;
     left: -80px;
+    font-weight: 900 !important;
+}
+.number{
+    position: relative;
+    top: -30px;
+    left: -125px;
+    font-weight: 900 !important;
+    font-size: 30px;
+}
+.position{
+    color: white;
+    letter-spacing: 5px;
+    position: relative;
+    top: 15px;
+    left: -158px;
     font-weight: 900 !important;
 }
