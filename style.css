@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    overflow-y: hidden;
 }
 .background{
     background-image: url(/4567367.jpg);
@@ -16,4 +17,15 @@ body{
 }
 .containe{
     padding-top: 50px;
+}
+#ninth{
+    position: relative;
+    /* top: -80px; */
+}
+.number{
+    /* color: red; */
+    position: relative;
+    top: -70px;
+    left: -80px;
+    font-weight: 900 !important;
 }

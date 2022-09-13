@@ -1,9 +1,18 @@
 class Team{
     constructor(playerName,jerseyNumber,position){
-        playerName = playerName,
-        jerseyNumber = jerseyNumber,
-        position = position
+        this.playerName = playerName,
+        this.jerseyNumber = jerseyNumber,
+        this.position = position
     }
 }
 
-var player1 Team ("")
+var player1 = new Team ("Antony","21","RW")
+console.log (player1)
+ninth.innerHTML = `
+<p>
+<img src="man_utd-removebg-preview.png" alt="" height="100px">
+<span class = "number">${player1.playerName}</span>
+<span class = "name">${player1.jerseyNumber}</span>
+<span class = "position">${player1.position}</span>
+</p>
+`
