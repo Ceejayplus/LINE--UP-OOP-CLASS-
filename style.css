@@ -1,3 +1,10 @@
+body{
+    margin: 0;
+}
 .background{
-    
+    background-image: url(/4567367.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 100vh;
 }
