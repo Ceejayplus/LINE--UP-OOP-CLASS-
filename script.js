@@ -18,7 +18,7 @@ ninth.innerHTML = `
 var player2 = new Team ("Rashford","10","CF")
 tenth.innerHTML = `
 <p>
-<img src="man_utd-removebg-preview.png" style="margin-right:-100px;" alt="" height="100px">
+<img src="man_utd-removebg-preview.png" style="margin-right:-110px;" alt="" height="100px">
 <span class = "name">${player2.playerName}</span>
 <span class = "number">${player2.jerseyNumber}</span>
 <span class = "position">${player2.position}</span>
@@ -42,13 +42,13 @@ sixth.innerHTML = `
 <span class = "position">${player4.position}</span>
 </p>
 `
-var player5 = new Team ("McTominay","39","DM")
+var player5 = new Team ("Casemiro","39","CM")
 seventh.innerHTML = `
 <p>
-<img src="man_utd-removebg-preview.png" alt="" style="margin-right:-100px;" height="100px">
-<span class = "name">${player5.playerName}</span>
-<span class = "number">${player5.jerseyNumber}</span>
-<span class = "position">${player5.position}</span>
+<img src="man_utd-removebg-preview.png" alt="" style="margin-right:-120px;" height="100px">
+<span class = "name5">${player5.playerName}</span>
+<span class = "number5">${player5.jerseyNumber}</span>
+<span class = "position5">${player5.position}</span>
 </p>
 `
 var player6 = new Team ("Fernandes","8","CM")
@@ -72,7 +72,7 @@ second.innerHTML = `
 var player8 = new Team ("Martínez","6","CB")
 third.innerHTML = `
 <p>
-<img src="man_utd-removebg-preview.png" alt="" style="margin-left:-50px;" height="100px">
+<img src="man_utd-removebg-preview.png" alt="" style="margin-left:-30px;" height="100px">
 <span class = "name8">${player8.playerName}</span>
 <span class = "number8">${player8.jerseyNumber}</span>
 <span class = "position8">${player8.position}</span>
@@ -81,7 +81,7 @@ third.innerHTML = `
 var player9 = new Team ("Varane","19","CB")
 fourth.innerHTML = `
 <p>
-<img src="man_utd-removebg-preview.png" alt="" style="margin-left:-50px;" height="100px">
+<img src="man_utd-removebg-preview.png" alt="" style="margin-left:-100px;" height="100px">
 <span class = "name9">${player9.playerName}</span>
 <span class = "number9">${player9.jerseyNumber}</span>
 <span class = "position9">${player9.position}</span>
@@ -90,10 +90,10 @@ fourth.innerHTML = `
 var player10 = new Team ("Dalot","20","RB")
 fifth.innerHTML = `
 <p>
-<img src="man_utd-removebg-preview.png" alt="" style="margin-right:-100px;" height="100px">
-<span class = "name">${player10.playerName}</span>
-<span class = "number">${player10.jerseyNumber}</span>
-<span class = "position">${player10.position}</span>
+<img src="man_utd-removebg-preview.png" alt="" style="margin-left:-130px;" height="100px">
+<span class = "name10">${player10.playerName}</span>
+<span class = "number10">${player10.jerseyNumber}</span>
+<span class = "position10">${player10.position}</span>
 </p>
 `
 var player11 = new Team ("De Gea","1","GK")
