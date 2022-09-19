@@ -6,7 +6,7 @@ class Team{
     }
 }
 
-var player1 = new Team ("Sancho","25","RW")
+var player1 = new Team ("Sancho","25","LW")
 ninth.innerHTML = `
 <p>
 <img src="man_utd-removebg-preview.png" style="margin-right:-100px;" alt="" height="100px">
@@ -24,7 +24,7 @@ tenth.innerHTML = `
 <span class = "position">${player2.position}</span>
 </p>
 `
-var player3 = new Team ("Antony","21","LW")
+var player3 = new Team ("Antony","21","RW")
 eleventh.innerHTML = `
 <p>
 <img src="man_utd-removebg-preview.png" alt="" style="margin-right:-130px;" height="100px">

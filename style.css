@@ -19,7 +19,8 @@ body{
     padding: 10px 10px 10px 10px;
 }
 #first{
-    margin-top: -75px;
+    margin-top: -35px;
+    margin-left: 15px;
 }
 .line2{
     padding-left: 100px !important;
