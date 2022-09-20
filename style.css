@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    background-color: #09871D;
 }
 .background{
     background-image: url(/4567367.jpg);
@@ -213,4 +214,51 @@ body{
     top: 15px;
     left: -45px;
     font-weight: 900 !important;
+}
+@media screen and (max-width: 500px) {
+    .background{
+        background-image: url(/4567367.jpg);
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        height: 100vh;
+        width: 380px;
+        /* overflow-y: hidden; */
+    }
+    .containe{
+        padding: 95px 10px 10px 10px;
+    }
+    #first{
+        margin-top: -110px;
+        margin-left: 15px;
+    }
+    .name{
+        position: relative;
+        top: -70px;
+        left: 20px;
+        font-weight: 900 !important;
+    }
+    .number{
+        position: relative;
+        top: -30px;
+        left: -25px;
+        font-weight: 900 !important;
+        font-size: 30px;
+    }
+    .position{
+        color: white;
+        letter-spacing: 5px;
+        position: relative;
+        top: -5px;
+        left: 30px;
+        font-weight: 900 !important;
+    }
+    .position3{
+        color: white;
+        letter-spacing: 5px;
+        position: relative;
+        top: -5px;
+        left: 30px;
+        font-weight: 900 !important;
+    }
 }
