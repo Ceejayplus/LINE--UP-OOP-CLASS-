@@ -223,7 +223,7 @@ body{
         background-position: center;
         height: 100vh;
         width: 380px;
-        /* overflow-y: hidden; */
+        overflow-x: hidden;
     }
     .containe{
         padding: 95px 10px 10px 10px;
@@ -330,6 +330,50 @@ body{
         position: relative;
         top: -34px;
         left: 15px;
+        font-weight: 900 !important;
+    }
+    #fourth{
+        position: relative;
+        left: 20px;
+    }
+    .name9{
+        position: relative;
+        top: -90px;
+        left: -76px;
+        font-weight: 900 !important;
+    }
+    .number9{
+        position: relative;
+        top: -80px;
+        left: -65px;
+        font-weight: 900 !important;
+        font-size: 30px;
+    }
+    .position9{
+        color: white;
+        letter-spacing: 5px;
+        position: relative;
+        top: -55px;
+        left: -63px;
+        font-weight: 900 !important;
+    }
+    #fifth{
+        position: relative;
+        left: 70px;
+    }
+    .number10{
+        position: relative;
+        top: -60px;
+        left: -95px;
+        font-weight: 900 !important;
+        font-size: 30px;
+    }
+    .position10{
+        color: white;
+        letter-spacing: 5px;
+        position: relative;
+        top: -37px;
+        left: -95px;
         font-weight: 900 !important;
     }
 }
