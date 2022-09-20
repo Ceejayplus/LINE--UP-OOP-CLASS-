@@ -42,7 +42,7 @@ sixth.innerHTML = `
 <span class = "position">${player4.position}</span>
 </p>
 `
-var player5 = new Team ("Casemiro","18","CM")
+var player5 = new Team ("Casemiro","18","DM")
 seventh.innerHTML = `
 <p>
 <img src="man_utd-removebg-preview.png" alt="" style="margin-right:-120px;" height="100px">
