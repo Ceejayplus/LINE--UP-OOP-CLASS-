@@ -228,9 +228,12 @@ body{
     .containe{
         padding: 95px 10px 10px 10px;
     }
-    #first{
+     #first{
         margin-top: -110px;
         margin-left: 15px;
+    }
+    .left{
+        height: 100px;
     }
     .name{
         position: relative;
@@ -263,7 +266,7 @@ body{
     }
     .left2{
         position: relative;
-        top: -30px;
+        top: 8px;
     }
     .position5{
         color: white;
@@ -279,6 +282,54 @@ body{
         position: relative;
         top: -5px;
         left: 30px;
+        font-weight: 900 !important;
+    }
+    .line2{
+        position: relative;
+        top: -40px;
+    }
+    #second{
+        position: relative;
+        right: 98px;
+    }
+    .number7{
+        position: relative;
+        top: -60px;
+        left: 30px;
+        font-weight: 900 !important;
+        font-size: 30px;
+    }
+    .position7{
+        color: white;
+        letter-spacing: 5px;
+        position: relative;
+        top: -37px;
+        left: 30px;
+        font-weight: 900 !important;
+    }
+    #third{
+        position: relative;
+        right: 85px;
+    }
+    .name8{
+        position: relative;
+        top: -90px;
+        left: 18px;
+        font-weight: 900 !important;
+    }
+    .number8{
+        position: relative;
+        top: -80px;
+        left: 42px;
+        font-weight: 900 !important;
+        font-size: 30px;
+    }
+    .position8{
+        color: white;
+        letter-spacing: 5px;
+        position: relative;
+        top: -34px;
+        left: 15px;
         font-weight: 900 !important;
     }
 }
