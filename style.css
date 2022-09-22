@@ -215,7 +215,7 @@ body{
     left: -45px;
     font-weight: 900 !important;
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 450px) {
     .background{
         background-image: url(/4567367.jpg);
         background-repeat: no-repeat;
@@ -229,7 +229,7 @@ body{
         padding: 95px 10px 10px 10px;
     }
      #first{
-        margin-top: -110px;
+        margin-top: -195px;
         margin-left: 15px;
     }
     .left{
@@ -264,10 +264,6 @@ body{
         left: 30px;
         font-weight: 900 !important;
     }
-    .left2{
-        position: relative;
-        top: 8px;
-    }
     .position5{
         color: white;
         letter-spacing: 5px;
@@ -286,7 +282,7 @@ body{
     }
     .line2{
         position: relative;
-        top: -40px;
+        top: -55px;
     }
     #second{
         position: relative;
